@@ -58,7 +58,7 @@ Black-Scholes options pricing in Python with live market data integration.
 - [x] Live market data integration
 - [x] Historical volatility estimation
 - [x] Greeks (Delta, Gamma, Vega, Theta, Rho)
-- [ ] Monte Carlo for path-dependent options
+- [x] Monte Carlo for path-dependent options
 - [ ] Dividend adjustments
 - [ ] Implied volatility solver
 - [ ] Portfolio Greeks aggregation
